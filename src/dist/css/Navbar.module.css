@@ -1,0 +1,18 @@
+ul, li{
+    margin-right: 10%;
+
+}
+
+.titulo{
+    padding-left: 50px;
+    margin-left: 60px;
+}
+
+.menu{
+    margin-right: 900px;
+    
+  }
+  
+  .color{
+    background-color: rgb(78, 192, 154);
+  }
