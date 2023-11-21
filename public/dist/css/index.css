@@ -1,0 +1,37 @@
+.login{
+    margin-top: 6.5%;
+    margin-left: 40%;
+  
+  }
+
+  /*ESTILOS MENU*/
+
+  .menu{
+    margin-right: 700px;
+    
+  }
+  
+  
+  .color{
+    background-color: rgb(78, 192, 154);
+  }
+  
+  .titulo{
+    margin-left: 20px;
+  }
+
+  
+  
+
+    /*ESTILOS FOOTER*/
+  .footer {
+    color: white;
+    text-align: center;
+    padding: 1rem;
+  }
+
+  .styles{
+    background-color: rgb(78, 192, 154);
+    margin-bottom: 0%;
+    padding: 2.5rem;
+  }
